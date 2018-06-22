@@ -1,0 +1,14 @@
+Alexandria,Cairo,Single Ticket,No stop,9:00 AM,null,140.0,128374,2/2/2001
+Alexandria,Cairo,Single Ticket,No stop,9:00 AM,null,140.0,128374,2/2/2001
+Alexandria,Cairo,Single Ticket,No stop,9:00 AM,null,140.0,128374,2/2/2001
+ddd,ddd,dd,ddd,ddd,dd,111.0,ddd,ddd
+Alexandria,Asswan,Bus,No stop,Single Ticket,6:00PM,300.0,4704,2/2/2001
+Asswan,Cairo,9:00 AM,No stop,Car,Single Ticket,250.0,4704,Apr/4/2018
+Alexandria,Cairo,Single Ticket,One stop at Tanta,3:00 PM,Bus,140.0,4704,Mar/9/2018
+Lybya,Palestine,Bus,No stop,Round Trip,3:00PM,690.0,4704,Mar/4/2018
+Asswan,Cairo,3:00 PM,One stop at Tanta,Bus,Round Trip,160.0,4704,Mar/5/2018
+Egypt/Cairo,Lybya,Round Trip,No stop,9:00AM,Bus,450.0,4704,Mar/18/2018
+Alexandria,Cairo,Car,One stop at Tanta,Single Ticket,3:00 PM,140.0,4704,Apr/24/2018
+Lybya,Palestine,3:00PM,No stop,Bus,Single Ticket,850.0,4704,Apr/4/2018
+Alexandria,Tanta,Round Trip,No stop,9:00 AM,Minibus,71.6,4704,Apr/27/2018
+Alexandria,Asswan,Car,one stop at Cairo,Round Trip,12:00PM,200.0,4701,May/10/2018

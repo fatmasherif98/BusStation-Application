@@ -1,0 +1,72 @@
+Alexandria-Asswan-9:00AM-No stop
+Alexandria-Asswan-12:00PM-one stop at Cairo
+Alexandria-Asswan-6:00PM-No stop
+Alexandria-Asswan-9:00PM-No stop
+Alexandria-Cairo-9:00 AM-No stop
+Alexandria-Cairo-3:00 PM-One stop at Tanta
+Alexandria-Cairo-9:00 PM-No stop 
+Alexandria-Tanta-9:00 AM-No stop
+Alexandria-Tanta-3:00 PM-No stop
+Alexandria-Tanta-9:00 PM-No stop
+Asswan-Alexandria-9:00 AM-No stop
+Asswan-Alexandria-3:00 PM-One stop at Tanta
+Asswan-Alexandria-9:00 PM-No stop  
+Asswan-Cairo-9:00 AM-No stop
+Asswan-Cairo-3:00 PM-One stop at Tanta
+Asswan-Cairo-9:00 PM-No stop  
+Asswan-Tanta-9:00 AM-No stop
+Asswan-Tanta-3:00 PM-No stop
+Asswan-Tanta-9:00 PM-No stop 
+Cairo-Alexandria-9:00 AM-No stop
+Cairo-Alexandria-3:00 PM-One stop at Tanta
+Cairo-Alexandria-9:00 PM-No stop 
+Cairo-Asswan-9:00 AM-No stop
+Cairo-Asswan-3:00 PM-One stop at Tanta
+Cairo-Asswan-9:00 PM-No stop 
+Cairo-Tanta-9:00 AM-No stop
+Cairo-Tanta-3:00 PM-No stop
+Cairo-Tanta-9:00 PM-No stop 
+Tanta-Alexandria-9:00 AM-No stop
+Tanta-Alexandria-3:00 PM-No stop
+Tanta-Alexandria-9:00 PM-No stop 
+Tanta-Asswan-9:00 AM-No stop
+Tanta-Asswan-3:00 PM-One stop at Cairo
+Tanta-Asswan-9:00 PM-No stop 
+Tanta-Cairo-9:00 AM-No stop
+Tanta-Cairo-3:00 PM-One stop at Cairo
+Tanta-Cairo-9:00 PM-No stop
+Egypt/Cairo-Lybya-9:00AM-No stop
+Egypt/Cairo-Lybya-3:00PM-No stop
+Egypt/Cairo-Lybya-9:00PM-No stop
+Egypt/Cairo-Palestine-9:00AM-No stop
+Egypt/Cairo-Palestine-3:00PM-No stop
+Egypt/Cairo-Palestine-9:00PM-No stop
+Egypt/Cairo-Soudan-9:00AM-No stop
+Egypt/Cairo-Soudan-3:00PM-No stop
+Egypt/Cairo-Soudan-9:00PM-No stop
+Lybya-Egypt/Cairo-9:00AM-No stop
+Lybya-Egypt/Cairo-3:00PM-No stop
+Lybya-Egypt/Cairo-9:00PM-No stop
+Lybya-Palestine-9:00AM-No stop
+Lybya-Palestine-3:00PM-No stop
+Lybya-Palestine-9:00PM-No stop
+Lybya-Soudan-9:00AM-No stop
+Lybya-Soudan-3:00PM-No stop
+Lybya-Soudan-9:00PM-No stop
+Palestine-Egypt/Cairo-9:00AM-No stop
+Palestine-Egypt/Cairo-3:00PM-No stop
+Palestine-Egypt/Cairo-9:00PM-No stop
+Palestine-Lybya-9:00AM-No stop
+Palestine-Lybya-3:00PM-No stop
+Palestine-Lybya-9:00PM-No stop
+Palestine-Soudan-9:00AM-No stop
+Palestine-Soudan-3:00PM-No stop
+Palestine-Soudan-9:00PM-No stop
+Soudan-Egypt/Cairo-9:00AM-No stop
+Soudan-Egypt/Cairo-3:00PM-No stop
+Soudan-Egypt/Cairo-9:00PM-No stop
+Soudan-Lybya-9:00AM-No stop
+Soudan-Lybya-3:00PM-No stop
+Soudan-Lybya-9:00PM-No stop
+Soudan-Palestine-9:00AM-No stop
+Soudan-Palestine-3:00PM-No stop

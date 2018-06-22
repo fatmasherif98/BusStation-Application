@@ -1,0 +1,5 @@
+Zakaria,Sherif,1222200$,President
+Mariam,Sherif,10000$,Vice President
+Rowan,Khaled,122222020202$,President
+Maysara,Moataz,754333,Management
+Sheir,Tawfik,12223333,Manager
